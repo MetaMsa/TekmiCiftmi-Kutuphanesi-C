@@ -1,4 +1,4 @@
-# Tek-mi-ift-mi-k-t-phanesi-c-
+# TekmiCiftmikutuphanesic++
 Modern derleyiciler için girilen sayının tek mi çift mi olduğunu kontrol eden kütüphane.
 
 ![image](https://github.com/MetaMsa/Tek-mi-ift-mi-k-t-phanesi-c-/assets/90111767/428d7c51-0c73-4f9c-9a39-3b66d3142a8d)
