@@ -8,5 +8,9 @@ Eğer sayınız tek ise fonksiyon t çift ise c char tipinde değişken dönderi
 
 Sadece tek_cift(sayi) yazmanız yeterli fonksiyon otomatik olarak çağrılacak.
 
+Kütüphane tanımlama:
+![image](https://github.com/MetaMsa/Tek-mi-ift-mi-k-t-phanesi-c-/assets/90111767/a63f8e58-23aa-4d9e-9c5b-b5578331125d)
+
+
 Örnek kullanım:
 ![image](https://github.com/MetaMsa/Tek-mi-ift-mi-k-t-phanesi-c-/assets/90111767/b527c8e8-c824-4216-afcb-429a5af0ac39)
